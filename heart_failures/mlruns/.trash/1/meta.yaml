@@ -1,0 +1,4 @@
+artifact_location: file:///workspaces/pycaret/heart_failure/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: heart_failure_death_random_forest

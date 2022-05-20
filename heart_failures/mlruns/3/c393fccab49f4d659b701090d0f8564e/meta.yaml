@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/pycaret/heart_failure/mlruns/3/c393fccab49f4d659b701090d0f8564e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: c393fccab49f4d659b701090d0f8564e
+run_uuid: c393fccab49f4d659b701090d0f8564e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653062485027
+status: 1
+tags: []
+user_id: vscode

@@ -1,0 +1,4 @@
+artifact_location: file:///workspaces/pycaret/heart_failure/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: gold
