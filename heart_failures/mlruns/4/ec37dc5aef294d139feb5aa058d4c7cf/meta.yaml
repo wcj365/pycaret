@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cjwang/pycaret/heart_failures/mlruns/4/ec37dc5aef294d139feb5aa058d4c7cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+name: ''
+run_id: ec37dc5aef294d139feb5aa058d4c7cf
+run_uuid: ec37dc5aef294d139feb5aa058d4c7cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653091796746
+status: 1
+tags: []
+user_id: cjwang

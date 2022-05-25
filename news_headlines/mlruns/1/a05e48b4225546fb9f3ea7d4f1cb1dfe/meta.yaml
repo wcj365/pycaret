@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cjwang/pycaret/news_headlines/mlruns/1/a05e48b4225546fb9f3ea7d4f1cb1dfe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a05e48b4225546fb9f3ea7d4f1cb1dfe
+run_uuid: a05e48b4225546fb9f3ea7d4f1cb1dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653314008137
+status: 1
+tags: []
+user_id: cjwang

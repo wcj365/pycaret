@@ -1,0 +1,4 @@
+artifact_location: file:///home/cjwang/pycaret/news_headlines/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: 02_text_preprocess_lda
